@@ -7,7 +7,7 @@ public class EventManager {
 
     private List<NotifyEvent> notifyEvents = new ArrayList<>();
 
-    public void addNotfifyEvent(NotifyEvent notifyEvent) {
+    public void addNotifyEvent(NotifyEvent notifyEvent) {
         this.notifyEvents.add(notifyEvent);
     }
 
